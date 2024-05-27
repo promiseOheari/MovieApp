@@ -1,0 +1,42 @@
+{
+    "playList" : [
+{
+"id" : "1",
+"bigImg" : "lord of the Ring",
+"previewImg" : "lord of the Ring",
+"tiitleImg" : "lord of the Ring",
+"video" : "https://www.youtube.com/watch?v=V75dMMIW2B4",
+"title" : "lord of the Ring",
+"year" : "2023",
+"date" : "18th of september",
+"ageLimit" : "15+",
+"length" : "2h 07min",
+"category" : "Adventure",
+"type" : "coming",
+"description" : "lord of the Ring is a very interesting movie to watch and educating as well",
+"active" : true
+
+},
+
+
+{
+    "id" : "1",
+    "bigImg" : "lord of the Ring",
+    "previewImg" : "lord of the Ring",
+    "tiitleImg" : "lord of the Ring",
+    "video" : "https://www.youtube.com/watch?v=V75dMMIW2B4",
+    "title" : "lord of the Ring",
+    "year" : "2023",
+    "date" : "18th of september",
+    "ageLimit" : "15+",
+    "length" : "2h 07min",
+    "category" : "Adventure",
+    "type" : "coming",
+    "description" : "lord of the Ring is a very interesting movie to watch and educating as well",
+    "active" : true
+    
+    }
+
+    ]
+}
+    

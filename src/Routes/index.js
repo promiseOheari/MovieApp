@@ -5,6 +5,8 @@ import {
   import App from "../App";
 
   import About from "../Pages/About";
+import Contact from "../Pages/Contact";
+import Schedule from "../Pages/Schedule";
  
   
   const router = createBrowserRouter([
@@ -18,6 +20,21 @@ import {
       path: "/about",
       element: <About/>,
     },
+
+    {
+      path: "/contact",
+      element: <Contact/>,
+    },
+
+    {
+      path: "/schedule",
+      element: <Schedule/>,
+    },
+
+    // {
+    //   path: "/",
+    //   element: <Home/>,
+    // },
   ]);
 
   export default router
